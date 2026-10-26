@@ -23,7 +23,9 @@ button {
   text-transform: uppercase;
 }
 button {
-  transition: 0.5s;
+  transition:
+    background 0.3s ease-in,
+    transform 0.2s ease-in-out;
 }
 
 button:hover {
