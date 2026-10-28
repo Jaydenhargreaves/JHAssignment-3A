@@ -5,7 +5,8 @@ h1 {
 }
 
 @keyframes vars {
-  0% 100% {
+  0%,
+  100% {
     font-variation-settings:
       "CASL" 1,
       "CRSV" 1,
