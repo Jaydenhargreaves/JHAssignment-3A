@@ -10,6 +10,9 @@ h2 {
   from {
     transform: rotateX(90deg);
   }
+  to {
+    transform: rotateX(0deg);
+  }
 }
 
 span:nth-child(2) {
