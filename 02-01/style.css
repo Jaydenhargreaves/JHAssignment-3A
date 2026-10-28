@@ -17,6 +17,8 @@ h2 {
   font-family: "Fira Sans", sans-serif;
   color: #dcf2b0;
   text-shadow: 3px 3px 0px #59c3c3;
+  animation-name: scaleIn;
+  animation-duration: 2s;
 }
 
 .wrap {
