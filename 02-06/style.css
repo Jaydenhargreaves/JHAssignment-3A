@@ -8,6 +8,8 @@ h1 {
   white-space: nowrap;
   margin: 0 auto;
   letter-spacing: 0.15em;
+  animation-name: typing;
+  animation-duration: 3s;
 }
 
 @keyframes typing {
