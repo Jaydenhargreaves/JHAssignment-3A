@@ -10,7 +10,7 @@
 }
 
 p {
-  animation: moveIn 2s linear both;
+  animation: moveIn var(--dur) var(--delay) var(--ease) both;
   margin: 0.75rem 0;
 }
 
