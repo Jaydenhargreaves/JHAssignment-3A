@@ -4,6 +4,7 @@ h2 {
   font-weight: 900;
   text-align: center;
   perspective: 1000px;
+  transform-style: preserve-3d;
 }
 
 span:nth-child(2) {
