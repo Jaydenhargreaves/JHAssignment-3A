@@ -28,6 +28,8 @@ p:nth-of-type(1) {
 }
 
 p:nth-of-type(2) {
+  --scale: 1.5;
+  --dist: 30%;
   color: #59c3c3;
 }
 
