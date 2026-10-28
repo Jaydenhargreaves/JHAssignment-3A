@@ -21,6 +21,9 @@ p {
 }
 
 p:nth-of-type(1) {
+  --scale: 1.75;
+  --dist: 80%;
+  --deg: 5deg;
   color: white;
 }
 
